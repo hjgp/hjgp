@@ -1,8 +1,11 @@
 ### 🤔 HyunJun Go
-(2020.3~) Start programming.
-(2021.7~) Interested in AI/ML/Big Data Analysis.
-(2022.2~) Interested in computer vision.
-(2022.3~) Interested in super resolution (computer vision low-level task).
+(2020.3~) Start programming.  
+(2021.7~) Interested in AI/ML/Big Data Analysis.  
+(2022.2~) Interested in computer vision.  
+(2022.3~) Interested in super resolution (computer vision low-level task).  
+
+### ❤Interests
+Computer Vision
 
 ### ⚡ Activities ⚡
 | Type | Date | Title | Contents | Host |
