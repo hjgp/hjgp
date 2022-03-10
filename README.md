@@ -4,15 +4,15 @@
 (2022.2~) Interested in computer vision.  
 (2022.3~) Interested in super resolution (computer vision low-level task).  
 
-### 👀Contact
+### 💬 Contact
 ㅁEmail. ghj7138@gmail.com
 
-### 🤖Skills
+### :ghost: Skills
 ML/DL: PyTorch
 Data Analysis: Pandas, MatplotLib, Seaborn
 Language/Tool: Python
 
-### ❤Interests
+### :ghost: Interests
 Computer Vision
 
 ### ⚡ Activities ⚡
