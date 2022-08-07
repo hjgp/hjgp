@@ -2,7 +2,7 @@
 (2020.3~) Start programming, Interested in Algorithm  
 (2021.7~) Interested in AI/ML/Data Analysis.  
 (2022.2~) Interested in computer vision.  
-(2022.3~) Interested data augmentation for super-resolution (computer vision low-level task).  
+
 
 ### 💬 Contact
 ㅁ Email. ghj7138@gmail.com
