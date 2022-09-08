@@ -18,10 +18,10 @@ Computer Vision
 ### ⚡ Activities ⚡
 | Type | Date | Title | Contents | Host |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Competition  | 2021.11.26 | NH 투자증권 빅데이터 경진대회 | Stock holding period prediction / 2rd  | NH 투자증권 |
-| Competition  | 2021.12.14 | 야생동물 활용영상 데이터 해커톤 | Development of a model that utilizes specific data / 2rd | 과학기술정보통신부 |
+| Competition  | 2021.11.26 | NH 투자증권 빅데이터 경진대회 | Stock holding period prediction / 2nd  | NH 투자증권 |
+| Competition  | 2021.12.14 | 야생동물 활용영상 데이터 해커톤 | Development of a model that utilizes specific data / 2nd | 과학기술정보통신부 |
 | Competition  | 2021.12.27 | 스포츠 활용영상 데이터 해커톤 | Development of a model that utilizes specific data / 3rd | 과학기술정보통신부 |
-| Competition  | 2022.2.22 | 조선/해양 빅데이터 경진대회 | freight load detection and OCR / 4rd | 현대중공업 |
+| Competition  | 2022.2.22 | 조선/해양 빅데이터 경진대회 | freight load detection and OCR / 4th | 현대중공업 |
 | Competition  | 2022.2.24 | 영유아 고관절 데이터 해커톤 | Development of a model that utilizes specific data / 3rd | 과학기술정보통신부 |
 
 <!--
