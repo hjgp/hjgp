@@ -13,7 +13,7 @@ Data Analysis: Pandas, MatplotLib, Seaborn
 Language/Tool: Python  
 
 ### :ghost: Interests
-Computer Vision
+Computer Vision, Natural Language Processing, Data Science
 
 ### ⚡ Activities ⚡
 | Type | Date | Title | Contents | Host |
