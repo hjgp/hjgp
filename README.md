@@ -23,8 +23,8 @@ Computer Vision, Natural Language Processing, Data Science
 | 2021.12.27 | 스포츠 활용영상 데이터 해커톤 | Development of a model that utilizes specific data  | 3rd | Idea Competition | 과학기술정보통신부 |
 | 2022.02.22 | 조선/해양 빅데이터 경진대회 | Freight load detection and OCR  | 4th | Accuracy Competition | 현대중공업 |
 | 2022.02.24 | 영유아 고관절 데이터 해커톤 | Development of a model that utilizes specific data  | 3rd | Idea Competition | 과학기술정보통신부 |
-| 2022.10.13 | KT Genielabs Dev-Challenge 2022 | task 3. food image classification  | 2nd | Accuracy Competition | KT |
-| 2022.12.02 | Animal datathon korea 2022 the 2nd | task 1. pig position classification  | 1st | Accuracy Competition | 농림축산식품부 etc |
+| 2022.10.13 | KT Genielabs Dev-Challenge 2022 | Task 3. food image classification  | 2nd | Accuracy Competition | KT |
+| 2022.12.02 | Animal datathon korea 2022 the 2nd | Task 1. pig position classification  | 1st | Accuracy Competition | 농림축산식품부 etc |
 <!--
 **hjgp/hjgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
