@@ -4,10 +4,6 @@
 (2022.2~) Interested in computer vision.  
 
 
-### 💬 Contact
-ㅁ Email. ghj7138@gmail.com
-
-
 ### ⚡ Activities ⚡
 |Date | Title | Contents | rank | Type | Host |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
