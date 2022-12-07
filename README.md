@@ -7,13 +7,6 @@
 ### 💬 Contact
 ㅁ Email. ghj7138@gmail.com
 
-### :ghost: Skills
-ML/DL: PyTorch  
-Data Analysis: Pandas, MatplotLib, Seaborn  
-Language/Tool: Python  
-
-### :ghost: Interests
-Computer Vision, Natural Language Processing, Data Science
 
 ### ⚡ Activities ⚡
 |Date | Title | Contents | rank | Type | Host |
