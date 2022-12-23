@@ -17,7 +17,7 @@
 | 2022.12.02 | Animal datathon korea 2022 the 2nd | Task 1. pig position classification  | 1st | Model accuracy Competition | 농림축산식품부 etc |
 | 2022.12.09 | NIA75 : CREATIVE 10 HACKATHON | cow, pig key point detection, pose classification | 1st | Model accuracy Competition | intflow, NIA etc |
 | 2022.12.09 | 인천 스마트관광 데이터 아이디어 공모전 | - | 2st | Idea Competition | 인천관광공사 etc |
-| 2022.12.23 | ‘라켓스포츠 데이터’ 인공지능 학습용 데이터 활용 경진대회 | - | 1st | Idea Competition | 사람과 숲, NIA |
+| 2022.12.23 | 라켓스포츠 데이터 인공지능 학습용 데이터 활용 경진대회 | - | 1st | Idea Competition | 사람과 숲, NIA |
 <!--
 **hjgp/hjgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
