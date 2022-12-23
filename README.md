@@ -15,6 +15,9 @@
 | 2022.10.13 | KT Genielabs Dev-Challenge 2022 | Task 3. food image classification  | 2nd | Model accuracy Competition | KT |
 | 2022.11.30 | 대규모 OCR 인공지능 학습데이터 해커톤  | Task. hanja OCR model development  | 2nd | Model development | 과학기술정보통신부 |
 | 2022.12.02 | Animal datathon korea 2022 the 2nd | Task 1. pig position classification  | 1st | Model accuracy Competition | 농림축산식품부 etc |
+| 2022.12.09 | NIA75 : CREATIVE 10 HACKATHON | cow, pig key point detection, pose classification | 1st | Model accuracy Competition | intflow, NIA etc |
+| 2022.12.09 | 인천 스마트관광 데이터 아이디어 공모전 | - | 2st | Idea Competition | 인천관광공사 etc |
+| 2022.12.23 | ‘라켓스포츠 데이터’ 인공지능 학습용 데이터 활용 경진대회 | - | 1st | Idea Competition | 사람과 숲, NIA |
 <!--
 **hjgp/hjgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
