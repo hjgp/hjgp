@@ -5,8 +5,8 @@
 
 
 ### ⚡ Activities ⚡
-|Date | Title | Contents | rank | Type | Host | Individual/Team Participation |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+|Date | Title | Contents | rank | Type | Host | Participation |
+| ------------- | ------------- | ------------- | ------------- | ------------- | --------------- | ---------- |
 | 2021.11.26 | NH 투자증권 빅데이터 경진대회 | Stock holding period prediction  | 2nd  | Prediction accuracy, Idea Competition | NH 투자증권 | Team |
 | 2021.12.14 | 야생동물 활용영상 데이터 해커톤 | Development of a model that utilizes specific data  | 2nd | Idea Competition | 과학기술정보통신부 | Individual |
 | 2021.12.27 | 스포츠 활용영상 데이터 해커톤 | Development of a model that utilizes specific data  | 3rd | Idea Competition | 과학기술정보통신부 | Individual |
