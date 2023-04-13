@@ -5,6 +5,8 @@
 
 
 ### ⚡ Activities ⚡
+- I participated in competitions intermittently, focusing on specific periods of time.
+
 |Date | Title | Contents | rank | Type | Host | Participation |
 | ------------- | ------------- | ------------- | ------------- | ------------- | --------------- | ---------- |
 | 2021.11.26 | NH 투자증권 빅데이터 경진대회 | Stock holding period prediction  | 2nd  | Prediction accuracy, Idea Competition | NH 투자증권 | Team |
