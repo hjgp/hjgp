@@ -12,7 +12,7 @@
 | 2021.11.26 | NH 투자증권 빅데이터 경진대회 | Stock holding period prediction  | 2nd  | Prediction accuracy, Idea Competition | NH 투자증권 | Team |
 | 2021.12.14 | 야생동물 활용영상 데이터 해커톤 | Development of a model that utilizes specific data  | 2nd | Idea Competition | 과학기술정보통신부 | Individual |
 | 2021.12.27 | 스포츠 활용영상 데이터 해커톤 | Development of a model that utilizes specific data  | 3rd | Idea Competition | 과학기술정보통신부 | Individual |
-| 2022.02.22 | 조선/해양 빅데이터 경진대회 | Freight load detection and OCR  | 4th | Model accuracy Competition | 현대중공업 | Team |
+| 2022.02.22 | 조선/해양 빅데이터 경진대회 | Freight load detection and OCR  | 3th | Model accuracy Competition | 현대중공업 | Team |
 | 2022.02.24 | 영유아 고관절 데이터 해커톤 | Development of a model that utilizes specific data  | 3rd | Idea Competition | 과학기술정보통신부 | Individual |
 | 2022.10.13 | KT Genielabs Dev-Challenge 2022 | Task 3. food image classification  | 2nd | Model accuracy Competition | KT | Individual |
 | 2022.11.30 | 대규모 OCR 인공지능 학습데이터 해커톤  | Task. hanja OCR model development  | 2nd | Model development | 과학기술정보통신부 | Individual |
